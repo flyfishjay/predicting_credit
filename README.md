@@ -1,2 +1,2 @@
 # predicting_credit
-Using rebalanced dated, trying to predict credit of potential borrowers
+Using rebalanced data, trying to predict credit of potential borrowers through a logistic model
