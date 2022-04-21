@@ -1,4 +1,4 @@
-# supervised learig --Logistic Regression with Resampling 
+# supervised learning --Logistic Regression with Resampling 
 
 This projects goal is to create a logistic regrssion model in order to predict the loan status of a borrower given 
 loan  features (such as debt to income interest rates etc).
